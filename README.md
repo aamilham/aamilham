@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/rahmad ilham sani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmad ilham sani" height="30" width="40" /></a>
 <a href="https://instagram.com/rahmad.ilham.sani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmad.ilham.sani" height="30" width="40" /></a>
+<a href="https://discord.gg/459614044643393537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="459614044643393537" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
