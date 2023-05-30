@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am a computer science student at IPB University. I have interest in Coding and Design stuff, especially Front-end Developer and also a Graphic Designer</h3>
 
 - 📫 How to reach me **aamilham13@gmail.com**
+- 🧊 Yea i create that profile picture myself
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
