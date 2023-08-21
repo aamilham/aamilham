@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **aamilham13@gmail.com**
 - 🧊 Yea i create that profile picture myself
+- check out my portfolio https://aamilham-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
